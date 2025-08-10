@@ -21,8 +21,13 @@
 </p>
 <p align="center">
  Este dispositivo permite medir el nivel de liquido,este sensor cambia su resistencia en base a la altura del liquido que lo cubre. Se puede encontrar en el area de energias 
+<h2> <p align="center">
+ <b> Sensor Infrarrojo De Distancia y Detector De Obstaculos FC51 </b> </h2>
+<p align="center">
+ Este dispositivo permite detectar objetos cercanos,esto por medio de luz infrarroja. Se puede encontrar en el pasillo de los ETMS.
  <h3 >
 <i> Autor: Camila Pérez Mercado</i>
 </h3>
+
 
 
