@@ -1,13 +1,18 @@
-# Sensores - Universidad Santo Tomás
+<h1 >
+<span style= "color:red;"><i>Sensores Universidad Santo Tomás</i></span>
+</h1>
+<p align="center">
+ <b> Anemómetro</b>
+<p align="center">
+  <img src="sensores-tarea/anemometro.jpg" alt="Anemómetro" width="300">
+</p>
+<p align="center">
+ Sensor Ultrasónico Hc-SR04
+<p align="center">
+  <img src="sensores-tarea/ultrasonico.jpg" alt="Sensor ultrasónico" width="300">
+</p>
 
- estos son algunos de los sensores que se pueden encontrar en la sede principal de la Universidad Santo Tomás en Bogotá.
-
-## Anemómetro
-![Anemómetro](sensores-tarea/anemometro.jpg)
-
-## Etape
-![Etape](sensores-tarea/etape.jpg)
-
-## Ultrasonico
-![Ultrasonico](sensores-tarea/ultrasonico.jpg)
+<p align="center">
+  <img src="sensores-tarea/etape.jpg" alt="Sensor eTape" width="300">
+</p>
 
