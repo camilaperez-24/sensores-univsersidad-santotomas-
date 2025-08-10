@@ -10,7 +10,7 @@
  <h2> <p align="center">
   <b> Sensor Ultrasónico Hc-SR04 📏</b> </h2>
 <p align="center">
-  <img src="sensores-tarea/ultrasonico.jpg" alt="Sensor ultrasónico" width="300">
+  <img src="sensores-tarea/ultrasonico.jpg" alt="Sensor ultrasónico" width="400">
 </p>
 <p align="center">
  Este dispositivo permite medir la la distancia hacia cierto objeto, esto por medio de ondas sonoras que rebotan y por medio del tiempo que tardan en regresar se calcula la distancia. Se puede encontrar en el area de energias 
