@@ -1,7 +1,7 @@
 <h1 >
 <i> Sensores Universidad Santo Tomás📓</i>
 </h1>
-  <p align="center"> <b> Anemómetro 🍃</b> 
+  <h2><p align="center"> <b> Anemómetro 🍃</b> </h2>
 <p align="center">
   <img src="sensores-tarea/anemometro.jpg" alt="Anemómetro" width="250">
 </p>
